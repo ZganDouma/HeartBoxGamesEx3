@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE4EB888-BA04-35AC-7534-36C09EB86138}") = "HeartBoxGamesEx3", "Assembly-CSharp.csproj", "{CD255466-C3D1-3D15-46C0-8A5B297EBA07}"
+EndProject
+Project("{EE4EB888-BA04-35AC-7534-36C09EB86138}") = "HeartBoxGamesEx3", "Assembly-CSharp-Editor.csproj", "{A1310703-3E5C-958F-AADE-A99C30FFBE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD255466-C3D1-3D15-46C0-8A5B297EBA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD255466-C3D1-3D15-46C0-8A5B297EBA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD255466-C3D1-3D15-46C0-8A5B297EBA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD255466-C3D1-3D15-46C0-8A5B297EBA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1310703-3E5C-958F-AADE-A99C30FFBE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1310703-3E5C-958F-AADE-A99C30FFBE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1310703-3E5C-958F-AADE-A99C30FFBE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1310703-3E5C-958F-AADE-A99C30FFBE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
